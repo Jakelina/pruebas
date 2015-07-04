@@ -12,6 +12,7 @@ import javax.swing.*;
  * @author sanz11@
  */
 public class Sprite {
+    private int a;
     protected int x;
     protected int y;
     protected int vx;
